@@ -5,6 +5,7 @@ Learning Objectives
 By completing this project, you will:
 
 Team Roles
+Technology Stack
 
 Learn to implement responsive UI/UX designs
 Understand how to structure a complex web application
