@@ -4,6 +4,8 @@ This project is a full-stack clone of the popular accommodation booking platform
 Learning Objectives
 By completing this project, you will:
 
+Team Roles
+
 Learn to implement responsive UI/UX designs
 Understand how to structure a complex web application
 Practice working in a team with defined roles
