@@ -8,6 +8,7 @@ Team Roles
 Technology Stack
 Database Design
 Feature Breakdown
+API Security
 
 Learn to implement responsive UI/UX designs
 Understand how to structure a complex web application
