@@ -7,6 +7,7 @@ By completing this project, you will:
 Team Roles
 Technology Stack
 Database Design
+Feature Breakdown
 
 Learn to implement responsive UI/UX designs
 Understand how to structure a complex web application
