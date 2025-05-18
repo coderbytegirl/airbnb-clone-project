@@ -9,6 +9,7 @@ Technology Stack
 Database Design
 Feature Breakdown
 API Security
+CI/CD Pipeline
 
 Learn to implement responsive UI/UX designs
 Understand how to structure a complex web application
